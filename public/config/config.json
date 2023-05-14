@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xcf9F9A1647f64821c02eEe0e9ca8A28E5D218429",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xcf9F9A1647f64821c02eEe0e9ca8A28E5D218429",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Bebot Punks",
+  "SYMBOL": "BBP",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mytoken-1880",
   "SHOW_BACKGROUND": true
 }
